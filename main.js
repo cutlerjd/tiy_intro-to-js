@@ -103,7 +103,7 @@ let b = (undefined == undefined);
 
 // 16.
 let c = (undefined == null);
-// A. true
+// A. false
 
 
 // 17.
